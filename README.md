@@ -1,8 +1,5 @@
 # AirBnb
-AirBnb Swag
-
-# Demo
-https://www.youtube.com/watch?v=CJLBFYHb4f8
+AirBnb Copy
 
 #Run App
 - Clone
